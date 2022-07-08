@@ -1,5 +1,6 @@
 
 ![image](https://user-images.githubusercontent.com/70474312/177974531-2694fe23-b5fb-46d5-a618-810ee1cfd351.png)
+ 
  For a project, I have recently started working on the ABIDE dataset (ABIDE-I's preprocessed CCS) to be exact and for data explo,ration I thought it would be great to create a small dashboard just to identify the distribution of the data. Before we move forward here is a little about the ABIDE dataset. You can read more about it over at their website at (http://fcon_1000.projects.nitrc.org/indi/abide/)
 
 <h2>What is ABIDE?</h2>

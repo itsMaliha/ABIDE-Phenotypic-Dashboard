@@ -1,5 +1,4 @@
-
-![image](https://user-images.githubusercontent.com/70474312/177974531-2694fe23-b5fb-46d5-a618-810ee1cfd351.png)
+![image](https://user-images.githubusercontent.com/70474312/177974676-dee62920-f11d-47b8-b113-a884b1cacc7c.png)
  
  For a project, I have recently started working on the ABIDE dataset (ABIDE-I's preprocessed CCS) to be exact and for data explo,ration I thought it would be great to create a small dashboard just to identify the distribution of the data. Before we move forward here is a little about the ABIDE dataset. You can read more about it over at their website at (http://fcon_1000.projects.nitrc.org/indi/abide/)
 
@@ -20,4 +19,9 @@ By openly sharing a wide range of preprocessed data and derivatives, the Neuro B
 The data was downloaded using nilearphenotypicere we received this phenptypic file. I have attached it here in this repository as well. Because we want to predict between two classes, Autism and Typical Control mfocuindicatorender and age, a key indicators of Autism diagnosis. For this reason, you will find this dashboard to be fairly clean and simple in its approach to displaying information. I used Power BI fgo-toeating this dashboard, my go to tool when ,it comes to interactive visuals and have attached the file in this repository as well.
 
 Here is an overview of what the dashboard looks like.
+
 ![Capture](https://user-images.githubusercontent.com/70474312/177974220-da6c52b2-7102-42fd-b23c-085465339e98.PNG)
+
+At the top there the various sites across which the data is collected and then there are a collection of charts and score boards that display the information. You can interact with this dashboard by downloading the file and opening it in Power BI on your local environment.
+
+Hope this is useful.
